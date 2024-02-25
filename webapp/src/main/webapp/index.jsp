@@ -3,12 +3,4 @@
 <h2> By Mr. Mallikarjun  from Saidemy!! </h2>
 <h3> Chandu  You are studying DevOps!!! </h3>
 
-<h4> It's a New begining CHANDU..Fod dal!!!!!!!!!! </h4>
-<h5> Yuvraj Singh </h5>
-<h6> Shrikant</h6>
-<h7>MALLI YOU HAVE DONE IT.................!!!!!!!</h7>
-<h8> It's a new Begining </h8>
-<h9> Yeeeeeeeeeeeeeeeeeeeee!!!!!!!!!!!!!!!! </h9>
-<h10>MASTER </h10>
-
 
